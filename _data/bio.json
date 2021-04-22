@@ -1,38 +1,38 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Yash Jain",
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "email": "yash0102jain@gmail.com",
+    "phone": " ",
+    "website": "https://yashjain0.github.io",
+    "summary": "I am studying for a B.Tech in Electronics and Communications at the Malaviya National Institute of Technology, Jaipur. I expect to graduate in July, 2022.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "302017",
+      "city": "Jaipur",
+      "countryCode": "India",
+      "region": "Rajasthan"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
+        "username": "yashjain0",
         "url": "http://github.com/changeme"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "YASH JAIN",
+        "url": "linkedin.com/in/yash-jain-058063183"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "Tey",
+        "url": "https://twitter.com/y_ashj"
       },
       {
         "network": "instagram",
-        "username": "molly",
+        "username": "luciferon",
         "url": "http://instagram.com/changeme"
       }
     ]
@@ -63,10 +63,9 @@
       "keywords": [
         "C",
         "C++",
-        "Java",
+        "Python",
         "Javascript",
         "Assembly",
-        "Common Lisp"
       ]
     },
     {
@@ -83,12 +82,12 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
+      "institution": "Malaviya National Institute of Technology, Jaipur",
+      "area": "Electronics and Communcations (expected July, 2022)",
+      "studyType": "B.Tech",
+      "startDate": "2018-07-01",
+      "endDate": "2022-07-01",
+      "gpa": "7.71",
       "courses": [
       ]
     }
