@@ -39,20 +39,25 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Stock maarket analysis",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "NSE",
+        "BSE",
+        "stocks"
       ]
     },
     {
-      "name": "data mining",
+      "name": "problem solving",
       "keywords": [
+        "python3",
+        "C++"
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Front End Development",
       "keywords": [
+        "JavaScript",
+        "Django"
       ]
     }
   ],
@@ -63,9 +68,10 @@
       "keywords": [
         "C",
         "C++",
-        "Python",
+        "Python3",
         "Javascript",
         "Assembly",
+        "Django"
       ]
     },
     {
@@ -75,8 +81,7 @@
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "putty"
       ]
     }
   ],
@@ -94,31 +99,19 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Abi Tribe",
+      "position": "Assistant Technical Manager",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2020-07-01",
+      "endDate": "2020-12-31",
+      "summary": "Data Manager and head of online presence for Abi Tribe ",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Maintain, update, and oversee official college online jewellery business website",
+        "Create, update and filter their stock data."
       ]
     },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
   ],
-  "volunteer": [
+  "voluntee": [
     {
       "organization": "Center for Renewable Energy and Island Sustainability",
       "website": "http://manoa.hawaii.edu/reis",
@@ -132,7 +125,7 @@
       ]
     },
     {
-      "organization": "",
+      "organizatio": "",
       "website": "",
       "position": "Professional organization involvement",
       "startDate": "",
@@ -145,7 +138,7 @@
       ]
     }
   ],
-  "awards": [
+  "award": [
     {
       "title": "B+ Scholarship",
       "date": "2013-Present",
