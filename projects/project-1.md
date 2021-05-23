@@ -2,15 +2,16 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+title: Stock-Interactions
+permalink: projects/Stock-Interactions
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2020-12-01
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Jupyter Notebook
+  - MongoDB
+  - Pandas
+  - Java Script
+summary: I created a website which compares stock prices of Nifty 50 with series of politically and economically important dates.
 ---
 
 <div class="ui small rounded images">
@@ -20,11 +21,13 @@ summary: My team developed a robotic mouse that won first place in the 2015 UH M
   <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+Stock Interactions started with the agitating thought of companies getting partnered up with major political parties and how they influence policy making in the country in their profit.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+For this project, I collected data of stocks of different companies from NSE's very own NSEpy API.  I started by programming the basics, such as plotting the data gained from API call using Matplotlib and pandas. These both are python libraries for data visualization. Then I created a basic database for different policies and elctions with the help of my companions from Political Science field. Plotted both data sets together and tried to see the patterns among them.
 
-Here is some code that illustrates how we read values from the line sensors:
+Working on better pattern visualization.
+
+Here is some code that illustrates how we read values from the database:
 
 ```js
 byte ADCRead(byte ch)
