@@ -6,7 +6,7 @@
     "email": "yash0102jain@gmail.com",
     "phone": " ",
     "website": "https://yashjain0.github.io",
-    "summary": "I am studying for a B.Tech in Electronics and Communications at the Malaviya National Institute of Technology, Jaipur. I expect to graduate in July, 2022.",
+    "summary": "I am studying B.Tech in Electronics and Communications at the Malaviya National Institute of Technology, Jaipur. I expect to graduate in July, 2022.Summer Intern @WIPRO",
     "location": {
       "address": "",
       "postalCode": "302017",
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "name": "problem solving",
+      "name": "Problem Solving",
       "keywords": [
         "python3",
         "C++"
@@ -111,14 +111,14 @@
       ]
     },
   ],
-  "voluntee": [
+  "Intern": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Wipro",
+      "website": "https://www.wipro.com/",
+      "position": "Summer Intern",
+      "startDate": "2021-05-31",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "To grow and provide what I am hired for.",
       "highlights": [
         "Design firmware for distributed weather sensor network",
         "Maintain custom data collection and storage infrastructure"
