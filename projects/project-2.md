@@ -9,7 +9,7 @@ date: 2020-08-15
 labels:
   - Django
   - MySql
-  - Herokku
+  - HerokuApp
 summary: To share and admire writings.
 ---
 
